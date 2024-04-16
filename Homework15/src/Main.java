@@ -18,6 +18,12 @@ public class Main {
 
         System.out.println(laptop2.toString());
 
+
+
+
+
+
+
         System.out.println("***************************************");
         Table rectangularTale1 = new Table(101, "myTable", 20.50, 4, 4, 4);
         Table rectangularTale2 = new Table(102, "myTable", 25.50, 2, 2, 2);
@@ -49,7 +55,8 @@ public class Main {
         System.out.println(rectangularTale2.toString());
 
         System.out.println("***************************************");
-//int id, String name, double price, double rating, int watts, int lumens
+
+
         Light light1 = new Light(501, "LightBulb", 10.40, 4.3, 60, 800);
         Light light2 = new Light(502, "LedLight", 5.20, 2.3, 100, 600);
 
