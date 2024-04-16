@@ -10,6 +10,7 @@ public class Table extends Product {
         this.length = length;
     }
 
+
     public double getHeight() {
         return height;
     }
